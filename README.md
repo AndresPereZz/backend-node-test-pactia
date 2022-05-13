@@ -1,6 +1,6 @@
 # EXPRESS-API
 
-    Prueba técnica de desarrollo en NodeJS con typescript. 
+    Prueba técnica de desarrollo en NodeJS con typescript para Pactia. 
 
 # Versión de NodeJS 
 
